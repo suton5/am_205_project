@@ -1,4 +1,5 @@
-# Missile simulation and interception
+# Missile Tracking, Projection and Interception
+## Sujay Thakur, Cooper Lorsung, David Zheng
 
 1. Visualise enemy missile tracking
 ```
